@@ -74,3 +74,6 @@
 /* Flickity */
 @import url(../external/flickity.css);
 
+html {
+  scroll-behavior: smooth;
+}
